@@ -3,7 +3,7 @@ import time
 import numpy as np
 
 ##############################
-wCam, hCam = 1280, 720
+wCam, hCam = 720, 360
 ##############################
 
 
